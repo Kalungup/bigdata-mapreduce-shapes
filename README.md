@@ -35,4 +35,6 @@ hadoop fs -cat /user/pascal/output_sd/part-r-00000
 
 ## 👤 Author
 Pascal Kalungu  
-Technical Project Manager | Data Engineering | Big Data | AI
+- GitHub: https://github.com/Kalungup
+- Portfolio: https://kalungup.github.io/Pascal_kalungu_portfolios/
+
