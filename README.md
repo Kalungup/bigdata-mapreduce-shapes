@@ -30,7 +30,7 @@ hadoop fs -cat /user/pascal/output_sd/part-r-00000
 ## 🧰 Tech Stack
 - Hadoop 3.x
 - HDFS
-- Java MapReduce (or Python streaming)
+- Java MapReduce
 - Linux / Ubuntu (DSV VM)
 
 ## 👤 Author
